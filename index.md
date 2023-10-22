@@ -3,6 +3,6 @@ layout: default
 title: New Page
 ---
 
-# New Page
+# Hello World
 
-This is the content of my new page.
+Welcome to my GitHub profile. Here you will find links to projects, talks and sources.
