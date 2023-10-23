@@ -2,6 +2,8 @@
 
 **Sources:**
 
+
+- [OWASP](https://owasp.org/)
 - [OWASP Top 10](https://owasp.org/Top10/)
 - [23 Most Notorious Hacks in History That Fall Under OWASP Top 10](https://securityboulevard.com/2023/03/23-most-notorious-hacks-history-that-fall-under-owasp-top-10/)
 - [Marriott Data Breach (New York Times Archive)](https://web.archive.org/web/20200330191130/https://www.nytimes.com/2018/11/30/business/marriott-data-breach.html)
@@ -15,3 +17,11 @@
 - [Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years (Krebs on Security)](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/)
 - [XKCD Comic on Security](https://xkcd.com/327/)
 - [Sneaker Bots: Inside the World of Automated Sneaker Buying (New York Times Archive)](https://web.archive.org/web/20230203023931/https://www.nytimes.com/interactive/2021/10/15/style/sneaker-bots.html)
+- [Four Microsoft Azure services found vulnerable to server-side request forgery (Cybersecurity Dive)](https://www.cybersecuritydive.com/news/microsoft-azure-vulnerable-server-side-request/640491/)
+- [The First American Corporation Data Leak - What happened? (TeamPassword)](https://teampassword.com/blog/the-first-american-corporation-data-leak-what-happened)
+- [Capital One cyber incident (Capital One)](https://www.capitalone.com/digital/facts2019/)
+- [Equifax Has Spent Nearly $1.4bn on Breach Costs(Infosecurity Magazine)](https://www.infosecurity-magazine.com/news/equifax-has-spent-nearly-14bn-on-1/)
+- [ Equifax Data Breach Settlement (FTC)](https://www.ftc.gov/enforcement/refunds/equifax-data-breach-settlement)
+
+- [OWASP Top 10 (Free Room) (Try Hack Me)](https://tryhackme.com/room/owasptop102021)
+- [Try Hack Me Referral](https://tryhackme.com/signup?referrer=6169a85946fd24005f7dd6be)
