@@ -23,7 +23,9 @@
 - [Equifax Has Spent Nearly $1.4bn on Breach Costs(Infosecurity Magazine)](https://www.infosecurity-magazine.com/news/equifax-has-spent-nearly-14bn-on-1/)
 - [ Equifax Data Breach Settlement (FTC)](https://www.ftc.gov/enforcement/refunds/equifax-data-breach-settlement)
 
+**Demos:**
 - [OWASP Top 10 (Free Room) (Try Hack Me)](https://tryhackme.com/room/owasptop102021)
 - [Try Hack Me Referral](https://tryhackme.com/signup?referrer=6169a85946fd24005f7dd6be)
 
+**Slide Link:**
 - [Slides - Made with Canva](https://www.canva.com/design/DAFxuwIEGiw/5GCsMEkH7aeuuorzcOImrw/view?utm_content=DAFxuwIEGiw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
