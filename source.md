@@ -25,3 +25,5 @@
 
 - [OWASP Top 10 (Free Room) (Try Hack Me)](https://tryhackme.com/room/owasptop102021)
 - [Try Hack Me Referral](https://tryhackme.com/signup?referrer=6169a85946fd24005f7dd6be)
+
+- [Slides - Made with Canva](https://www.canva.com/design/DAFxuwIEGiw/5GCsMEkH7aeuuorzcOImrw/view?utm_content=DAFxuwIEGiw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
